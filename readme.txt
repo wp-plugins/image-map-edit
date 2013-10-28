@@ -4,7 +4,7 @@ Donate link: http://www.clickablemaps.net
 Tags: clickable maps, image maps, jquery maps, interactive maps
 Requires at least: 3
 Tested up to: 3.4
-Stable tag: 1.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
