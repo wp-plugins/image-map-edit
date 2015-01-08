@@ -21,7 +21,7 @@ GNU General Public License for more details.
 */
 
 function image_map_maps_list() {
-	return array( 'europe' => 'Europe');
+	return array( 'estonia' => 'Estonia');
 	//return array( 'europe' => 'Europe','world' => 'World');
 }
 // No need to edit below this line
